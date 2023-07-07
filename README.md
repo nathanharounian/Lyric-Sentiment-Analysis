@@ -8,4 +8,5 @@ Published ShinyApp which conducts varying song lyric analysis from azlyrics.com 
 
 # Repository Directory
 `lyric-sentiment-analysis-code.R` : R Script for Lyric Sentiment Analysis ShinyApp.
+
 `u2-lyrics.csv` : CSV file containing U2 lyrics used for analysis.
