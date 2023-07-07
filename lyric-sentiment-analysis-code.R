@@ -1,7 +1,7 @@
 # ===============================================
 # Fill in the following fields
 # ===============================================
-# Title: STAT 133 Project 3: U2 Lyrics Analysis Application
+# Title: U2 Lyrics Analysis Application
 # Description: A lyrical analysis of U2 albums, analysizing lyric frequency and associated sentiment with various conditioning options for the user to decide.
 # Author: Nathan Harounian
 # Date: 12/05/2021
